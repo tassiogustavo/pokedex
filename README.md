@@ -1,16 +1,28 @@
-# pokedex
+# Pokedex Dart + Flutter
+## 📷 Video do Projeto
 
-A new Flutter project.
+https://user-images.githubusercontent.com/70405308/229144059-9269557e-249c-4914-b0c4-22a55aab372d.mp4
 
-## Getting Started
+## 📝 Descrição do projeto
+Projeto de uma Pokedex. Layout inspirado em design do dribbble. Gerência de estado feito com Provider. Pokemons favoritos salvos por meio de banco interno (SQFlite). Consumindo dados da API de repo git.
 
-This project is a starting point for a Flutter application.
+## 💻 Features do projeto
+* Gerência de estado, Provider
+* Salvar Favoritos
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
+* LIB: provider (gerência de estado)
+* LIB: sqflite (banco de dados local)
+* LIB: path (caminho banco de dados local)
+* LIB: http (buscar api por url)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📌 Links
+* [provider](https://pub.dev/packages/provider)
+* [sqflite](https://pub.dev/packages/sqflite)
+* [path](https://pub.dev/packages/path)
+* [http](https://pub.dev/packages/http)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
